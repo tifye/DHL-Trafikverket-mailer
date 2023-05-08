@@ -6,7 +6,7 @@ namespace EventStreamEmailer.Services
     public class GoogleMapsService
     {
         private const string _baseUrl = @"https://maps.googleapis.com/maps/api/staticmap?";
-        private const string _apiKey = "AIzaSyB7A7-E9x1g2uw-8yKMc0DmrSe5eOZ09w0";
+        private const string _apiKey = "xxxx";
 
         private readonly HttpClient _httpClient;
 

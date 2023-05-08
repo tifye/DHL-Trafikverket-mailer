@@ -5,9 +5,9 @@ namespace EventStreamEmailer.Services
 {
     public class StorageService
     {
-        private const string _firestorageProjectId = "dhl-warn-traffic-service";
+        private const string _firestorageProjectId = "xxxxx";
         private const string _mapsImagesFolder = "maps-images";
-        private const string _bucketName = "dhl-warn-traffic-service.appspot.com";
+        private const string _bucketName = "xxxx";
         private FirestoreDb _firestoreDb;
         private StorageClient _storageClient;
 

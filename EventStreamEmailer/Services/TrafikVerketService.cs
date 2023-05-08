@@ -7,7 +7,7 @@ namespace EventStreamEmailer.Services
     public class TrafikVerketService
     {
         private const string _baseUrl = "https://api.trafikinfo.trafikverket.se/v2/data.json";
-        private const string _apiKey = "cc24f105c44f4614ad569dd675620cdd";
+        private const string _apiKey = "xxxx";
 
         private readonly HttpClient _httpClient;
 
