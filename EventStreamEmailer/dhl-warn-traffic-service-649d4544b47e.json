@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dhl-warn-traffic-service",
+  "private_key_id": "649d4544b47e49048da3ac482b37a4573d28d17a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDg8v7RE1hJpAET\niMIU2oUbIJH+JjjlKbQkJkWr9IRFsFQHz1sWYZ1mwivTZ2kOs00/XVXSM2hMXoru\nYK3LtgGKOmH96MAFogOTgGF9hFLjBD1HdnYQZy4tbg8MTC6rbIhYZIbgrf6Hfg2k\nOs9JVSp1GHZrTNl7ux9GcQTsnis9T3gSlmDxnM7MPPcf5NRij7fTNJqNwLSHLj8T\naLF59GeSybeUb/JXgNrCtJvuuZ4AB7zQ0wpD401MJCmrakymd+ecVgrNrnILboF4\nYHzf3HuxJdhaM/srODkdd0106qprVN+p0yZX2ZUTnjlz0T5dScpD4Ry+nmEY7VmR\nTudZVH5JAgMBAAECggEAFkP7FKkCZsSa3ir90ehYvzkDtlkkbctpUyAuKoFxA8Ba\nquy7dn1KQgjzY1ETqSK2gVB83Ync151OiV6MqVKeN6dEeohKlGwnSDbvf2fk9+c8\nJQoM0N4TqCfCCcyzHGDpZH1ry8qxHEpt8XzoNlkdkxpNI10HlFuO0o8+hmi3/TEE\nTwJkiDIdLG80NOfbLXJga1J6DMTi90IxhuJ0sBkaEbIQFXlgiSRA7Uh09j+DVTzr\n5yXVfHNWB8Szp8+CrtDe667Hw7oqlq2YNpabC5W2LedrXJD4qaDoIaWoBpGIn/KA\nveku/HlKVoxsTSxGDbJjbcEQdTxF5jo97VB3s3Z40QKBgQD8qQtPqD/ipMe5v+vK\nKpQqGXTWa5rsPjD1aUQdY0mnLSyY5gxKJMC7/HEQivOx40LNzx9NezDvqkQFS/6d\nPnqK/w297BWiIxYSkBrbdIytTTVPICniWimwWuaTV4RMpQwsQWbjypeCtLp0nhx1\nAnSODo5oaqFnDi7OGG2sx9vreQKBgQDj7C6Of5YK1zULpUKBHhtRW2ntLSpirvf/\nhd2ynfL1roYWGegI4pJ/LKiX0V3SeGzI14j2dGr5v72pxDsH6CXcz+MwnpvnDftz\nIzgVhogvcsJtI3jytHjV+suo/kZlxE5Ehsdgkq7yRxooF/V4Ls7ROY0LRBb6d1gx\nZw5TdUqlUQKBgA+k//hMuLf18BAGXDlGbao1rVBhlVQvfaSUgg03yqW5XFuTUwt8\nPxrkxLN7hx9qrQZFXvDTQfJ1HoUdcYSXC8tzg4xRA/3oIkO//Im+K7/HWheuLCnB\n33b2CfTxpFWCmsBaxF4yezMysaDq8WQlZMYvDI5Wm+vfqvJD/PaH4YwxAoGAfxdz\n3oHGaMUYDyZXryfak8MljdthhyWJpDJBLRhmIhjvK+PGPy4YAlIksINOjc4Y2uVU\nuhiwjhMc7008nWwVsMs7JCFNTcm+LLW20En0JoEXaUQebTe1KZxvdAxVtOmBuzRs\neK1SYEbFjxXNCvcO3Bv7SgztwzxJMUMF+gOtXAECgYB/5B925NqB6PIcgD/cWSW4\nSIcX7gJhkeBxPOudAMYwDSc7cEKGtbD5fAaFefprLiDfxjjyYyjeQnDujx3+tndW\nolV9cNQSI2yT9Zj1AOKz53++ZxMq7WCoRY4e/Bu8qcARXToYqKsCj7D/ZOr5EDCl\ndLE5yuCpv2BfgbvkzDarTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sv8mq@dhl-warn-traffic-service.iam.gserviceaccount.com",
+  "client_id": "116746785998977065405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sv8mq%40dhl-warn-traffic-service.iam.gserviceaccount.com"
+}

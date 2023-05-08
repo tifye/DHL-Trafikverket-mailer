@@ -1,0 +1,21 @@
+version: latest
+
+services:
+  event-stream-emailer:
+    build:
+      context: EventStreamEmailer
+      dockerfile: Dockerfile
+  stmp:
+    image: mailhog/mailhog:latest
+    ports:
+      - 1025:1025
+      - 8025:8025
+    environment:
+      - MH_HOSTNAME = joel.xai.com
+  real-smtp:
+    image: namshi/smtp:latest
+    ports:
+      - 587:587
+    environment:
+      MAILNAME:  joel.xai
+      PORT: 587
