@@ -6,6 +6,7 @@ How this PoC works:
 3. Use own SMTP server to email the image along with the information from Trafikverket which included what happened, severity, etc
 
 End result
+
 ![image](https://github.com/user-attachments/assets/ddc9bf84-e0a6-4154-8343-df51ecddc925)
 
 The end result was promising and showed potential for future applications. This can be combined with Google's other API services to collect even more information about routes.
